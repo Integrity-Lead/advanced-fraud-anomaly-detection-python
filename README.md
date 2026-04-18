@@ -54,3 +54,23 @@ This project addresses the critical challenge of identifying fraudulent transact
 *   **Executive Intelligence:** Real-time bridge between raw transactional data and strategic decision-making.
 
 
+  ---
+## 🚀 UPDATE April 2026: Layer 5 Model Governance & Drift Monitoring 🏛️🦾
+
+In production environments, identifying a fraud pattern is only half the battle. The true challenge is **Model Integrity**. 
+
+As AI agents interact and data distributions shift, models can lose accuracy without warning (**Concept Drift**). To address this, we have integrated a **Model Health Monitor** based on the Kolmogorov-Smirnov statistical test.
+
+### 🕵️ Key Features of the Governance Module:
+*   **Active Boundary Monitoring:** Audits the "handover" between data streams to ensure structural integrity.
+*   **Statistical Drift Detection:** Automated `p-value` analysis comparing the *Trusted Baseline* vs. *Live Production Data*.
+*   **Layer 5 Resilience:** Triggers an immediate isolation protocol if a significant deviation is detected, preventing "blind" decision-making.
+
+### 📈 Visualizing the Strategic Risk Gap:
+The system generates a **Model Integrity Audit** report. When the **Production Data (Magenta)** deviates from the **Trusted Baseline (Blue)**, the "Observer Agent" alerts the C-Suite of a compromised state.
+
+> *"We don't just build models; we govern the relationships between them."* 🛡️⚙️
+---
+
+
+
