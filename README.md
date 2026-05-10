@@ -3,7 +3,9 @@
 ![Region: Sao_Paulo](https://shields.io)
 ![Precision: 93.2%](https://shields.io)
 
-# [Sovereign AI Infrastructure | Integrity-Lead] 🏛️🦾
+
+
+# Sovereign AI Infrastructure | Integrity-Lead 🏛️🦾
 
 ### Strategic Focus: High-Precision Runtime Integrity & Structural Sovereignty
 **Sovereign Infrastructure Enforcement | Integrity-Lead Systems**  
@@ -63,11 +65,15 @@ Powered by the **Isolation Forest algorithm**, the system identifies statistical
 ---
 
 ### 🔍 Engine Anomaly Detection Radar
-![Strategic Fraud Engine](advanced_fraud_radar.png)
+<p align="center">
+  <img src="advanced_fraud_radar.png" width="800">
+</p>
 *This visualization is the direct output of the Isolation Forest engine, isolating critical outliers (**Crimson**) from normal transactional flow.*
 
 ### 📊 Strategic Executive Dashboard (Power BI)
-![Strategic_Risk_Intelligence_Report_Novaclic_Data](Strategic_Risk_Intelligence_Report_Novaclic_Data.png)
+<p align="center">
+  <img src="Strategic_Risk_Intelligence_Report_Integrity_Lead.png" width="850">
+</p>
 
 #### Executive Panel Metrics:
 *   **Strategic KPI:** High anomaly detection consistency (~93.2%) in controlled environments.
@@ -77,7 +83,9 @@ Powered by the **Isolation Forest algorithm**, the system identifies statistical
 ---
 
 ### 🐍 Layer 5 Governance: Model Integrity Monitoring
-![Anomaly_Isolation_Map](Anomaly_Isolation_Map.png)
+<p align="center">
+  <img src="Anomaly_Isolation_Map.png" width="800">
+</p>
 
 
 *Every **Magenta 'X'** represents a zero-day threat isolated by its statistical distance, ensuring reliability even when patterns are unknown.*
@@ -93,7 +101,7 @@ In production systems, detection is only half the battle. As data distributions 
 
 ### 🛠️ Tech Stack & Usage
 *   **Algorithm:** Isolation Forest (Unsupervised Anomaly Detection).
-*   **Language:** Python 3.x | **Libraries:** Scikit-learn, NumPy, Pandas, Matplotlib.
+*   **Language:** Python 3.11 | **Core:** Scikit-learn, NumPy, Pandas, Matplotlib.
 *   **Visualization:** Power BI | **Methodology:** Agile (Scrum).
 
 #### 🚀 Quick Start:
@@ -122,7 +130,9 @@ python drift_monitor.py
 ### 📉 Visualizing the Strategic Risk Gap
 The system generates a **Model Integrity Audit** report. When the **Production Data (Magenta)** deviates from the **Trusted Baseline (Blue)**, the "Observer Agent" alerts the C-Suite of a compromised state.
 
-![NovaClic Model Integrity Audit](NovaClic_Drift_Audit_2026.png)
+<p align="center">
+  <img src="Sovereign_Drift_Audit_2026.png" width="800">
+</p>
 
 
 > ### **"We don't just build models; we govern the relationships between them."** 🛡️⚙️
@@ -136,8 +146,9 @@ The system generates a **Model Integrity Audit** report. When the **Production D
 
 As AI ecosystems evolve towards **Agentic Autonomy**, traditional monitoring is no longer sufficient. This update introduces the **Autonomic Governance Audit**—a layer designed not just to detect drift, but to enforce **Operational Integrity** in real-time.
 
-![NovaClic Model Integrity Audit](NovaClic_Autonomic_Immunity_2026.png)
-
+<p align="center">
+  <img src="Sovereign_Autonomic_Immunity_2026.png" width="800">
+</p>
 ---
 
 ### 🛡️ The Adaptive Immunity Engine
@@ -158,5 +169,8 @@ The generated report now explicitly maps the **Resilience Gap**:
 > **"In the era of autonomous agents, governance is not a manual checklist; it is an immune system that defends the organization’s logic at machine speed."** 🏛️⚙️
 
 
+---
 
-
+## 📬 Connectivity
+- **LinkedIn:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+- **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
