@@ -1,29 +1,45 @@
-![Status: Active](https://shields.io) ![Architecture: Layer_5](https://shields.io) ![Region: Sao_Paulo](https://shields.io)
+![Status: Active](https://shields.io) 
+![Architecture: Layer_5](https://shields.io) 
+![Region: Sao_Paulo](https://shields.io)
+![Precision: 93.2%](https://shields.io)
 
-# 🛡️ AI Model Governance & Anomaly Detection for Financial Risk
-**By NovaClic Data | AI & BI Strategic Specialist**
-**Data Strategist | Financial Cybersecurity & Outlier Detection**
+# [Sovereign AI Infrastructure | Integrity-Lead] 🏛️🦾
 
-[![GitHub Portfolio](https://shields.io)](https://github.com)
-[![LinkedIn Profile](https://shields.io)](https://www.linkedin.com)
-</div>
+### Strategic Focus: High-Precision Runtime Integrity & Structural Sovereignty
+**Sovereign Infrastructure Enforcement | Integrity-Lead Systems**  
+*Based in São Paulo, BR | Architecting the next generation of autonomous execution boundaries.*
 
+---
 
-## 🏛️🦾 ARCHITECTURAL UPDATE: Homeostatic Integrity & Autonomic Governance
-
+## 🏛️ ARCHITECTURAL UPDATE: Homeostatic Integrity & Autonomic Governance
 ### "Bridging the Resilience Gap in the Agentic Economy"
 
 As organizations scale **Agentic AI**, the risk shifts from simple data errors to **Structural Fragility**. This framework provides the **Structural Shield** necessary to transition from passive monitoring to **Autonomic Governance**.
 
-#### 🛡️ Key Concepts Integrated:
+#### 🛡️ Key Pillars of Execution:
 *   **Homeostatic Architecture:** The system doesn't just monitor; it "sheds" obsolete logic and isolates threats to maintain systemic immunity.
 *   **Runtime Integrity Enforcement:** Real-time auditing of the **Resilience Gap** between the trusted baseline and autonomous execution.
 *   **Sovereignty Protection:** Detecting "Silent Operational Drift" where agents rewrite workflows without executive oversight.
 
-> *"In 2026, integrity isn't a static virtue; it's a living architecture that protects the organization’s purpose at machine speed."* 🛡️⚙️
-
+> *"In 2026, integrity isn't a static virtue; it's a living architecture that protects the organization’s purpose at machine speed."*
 
 ---
+
+## ⚙️ Core Metrics & Compliance
+- **Accuracy:** 93.2% Deterministic Outlier Detection.
+- **Framework:** Layer 5 Runtime Integrity.
+- **Alignment:** EU AI Act (Risk Management) & NIST AI RMF.
+
+---
+
+## 📬 Connectivity
+- **LinkedIn:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+- **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
+
+---
+
+
+
 
 ### 🕵️ Executive Summary
 This project addresses one of the most critical challenges in modern financial systems: **detecting anomalous behavior** and ensuring **model reliability** within dynamic environments.
@@ -54,7 +70,7 @@ Powered by the **Isolation Forest algorithm**, the system identifies statistical
 ![Strategic_Risk_Intelligence_Report_Novaclic_Data](Strategic_Risk_Intelligence_Report_Novaclic_Data.png)
 
 #### Executive Panel Metrics:
-*   **Strategic KPI:** High anomaly detection consistency (~93%) in controlled environments.
+*   **Strategic KPI:** High anomaly detection consistency (~93.2%) in controlled environments.
 *   **Visual Strategy:** Time-based anomaly segmentation.
 *   **Objective:** Translating raw data into **actionable signals** for executive decision-making.
 
