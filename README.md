@@ -34,13 +34,6 @@ As organizations scale **Agentic AI**, the risk shifts from simple data errors t
 
 ---
 
-## 📬 Connectivity & Gateway
-- **Live Infrastructure Endpoint:** [https:integritylead.pythonanywhere.com](http://://pythonanywhere.com) 🌐
-- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
-- **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
-
----
-
 
 
 
@@ -173,6 +166,10 @@ The generated report now explicitly maps the **Resilience Gap**:
 ---
 
 ## 📬 Connectivity & Gateway
-- **Live Infrastructure Endpoint:** [https:integritylead.pythonanywhere.com](http://://pythonanywhere.com) 🌐
-- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+- **Live Infrastructure Endpoint:** [integritylead.pythonanywhere.com](https://integritylead.pythonanywhere.com) 🌐
+- **Interactive Validation (API):** `POST /validate` 
+  - *Try sending a JSON payload: `{"value": 0.95}` to trigger the Layer 5 Enforcement.*
 - **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
+- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+
+---
