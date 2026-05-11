@@ -34,8 +34,9 @@ As organizations scale **Agentic AI**, the risk shifts from simple data errors t
 
 ---
 
-## 📬 Connectivity
-- **LinkedIn:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
+## 📬 Connectivity & Gateway
+- **Live Infrastructure Endpoint:** [://pythonanywhere.com](http://://pythonanywhere.com) 🌐
+- **LinkedIn Authority:** [claudia-lopez-Integrity-Lead](https://linkedin.com)
 - **Technical Inquiries:** tech.lead.layer5.systems@gmail.com
 
 ---
