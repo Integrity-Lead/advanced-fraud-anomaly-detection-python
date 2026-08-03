@@ -352,6 +352,9 @@ live_stream = np.vstack([normative_payloads, zero_day_mutations])
 perimeter_telemetry = execute_density_perimeter_audit(live_stream, epsilon=0.5, min_samples=7)
 ```
 
+> ⚙️ **Production Scaling Note ($O(N^2)$ Complexity Containment):** For environments processing >100k concurrent events per second, the native Euclidean distance matrix may experience memory degradation. In live enterprise edge nodes, this density isolation step is decoupled via a non-parametric indexing pipeline executed prior to matrix normalization.
+
+
 ---
 ### 🛠️ Tech Stack & Usage
 *   **Algorithm:** Isolation Forest (Unsupervised Anomaly Detection).
@@ -437,4 +440,5 @@ The generated report now explicitly maps the **Resilience Gap**:
 - **Interactive Validation (API):** `POST /validate` 
   - *Try sending a JSON payload: `{"value": 0.95}` to trigger the Layer 5 Enforcement.*
 - **Technical Inquiries:** tech.lead@integrityleadlabs.com
+
 ---
