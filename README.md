@@ -441,7 +441,6 @@ The generated report now explicitly maps the **Resilience Gap**:
   - *Try sending a JSON payload: `{"value": 0.95}` to trigger the Layer 5 Enforcement.*
 - **Technical Inquiries:** tech.lead@integrityleadlabs.com
 
-- 
 ---
 ### 🛡️ Runtime Immune Hardening (2026 Operational Update)
 The telemetry ingestion pipeline has been updated to handle non-parametric threshold scaling under distributed edge execution, mitigating cross-layer latency overhead. Active nodes executing the Jaccard similarity index automatically enforce system immunity triggers without kernel-level intervention.
